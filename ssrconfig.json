@@ -1,0 +1,15 @@
+{
+    "server": "bgp-hk-c.bingv2.xyz",
+    "local_address": "127.0.0.1",
+    "local_port": 1080,
+    "timeout": 300,
+    "workers": 1,
+    "server_port": 52013,
+    "password": "UMOhSB",
+    "method": "aes-256-cfb",
+    "obfs": "tls1.2_ticket_auth",
+    "obfs_param": "",
+    "protocol": "auth_aes128_sha1",
+    "protocol_param": "241:Pnxtl6"
+}
+                         
